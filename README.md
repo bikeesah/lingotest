@@ -1,2 +1,2 @@
 # lingotest
-Basic project 
+First push and pull request by own me.
